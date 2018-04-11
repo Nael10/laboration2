@@ -1,6 +1,6 @@
 {
     "name": "mau/testing",
-    "description": "This is a test of jason file generating",
+    "description": "This is a test of jason file generating to save on git",
     "type": "library",
     "require": {
         "catfan/medoo": "^1.1",

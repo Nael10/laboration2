@@ -12,7 +12,8 @@ $log->info("$myString");
 <!DOCTYPE html>
 <html>
 <head>
-<title>Testing, Testing>/title>
+<title>Testing, Testing</title>
+<link rel="stylesheet" type="text/css" href="background.css">
 </head>
 <body>
 <?php
