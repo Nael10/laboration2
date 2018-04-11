@@ -1,0 +1,21 @@
+{
+    "name": "mau/testing",
+    "description": "This is a test of jason file generating",
+    "type": "library",
+    "require": {
+        "catfan/medoo": "^1.1",
+        "slim/slim": "^3.9",
+        "monolog/monolog": "^1.23"
+    },
+    "require-dev": {
+
+    },
+    "license": "BSD-CLAUSE1",
+    "authors": [
+        {
+            "name": "Nael N",
+            "email": "nael@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
